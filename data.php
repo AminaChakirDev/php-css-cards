@@ -23,20 +23,28 @@ $data = [
             'description' => 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa nihil repellat ex. Labore maxime eligendi deleniti laboriosam omnis assumenda, ratione tempora provident voluptatibus similique odio reprehenderit expedita autem dolorem ipsum!',
             'image' => 'university.jpg',
         ],
+        
     ],
     'Experiences' =>  [
         [
-            'date' => '2019 summer',
+            'date' => '2012 summer',
             'location' => 'Big Bank',
             'title' => 'Internship in economics',
             'description' => 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa nihil repellat ex. Labore maxime eligendi deleniti laboriosam omnis assumenda, ratione tempora provident voluptatibus similique odio reprehenderit expedita autem dolorem ipsum!',
             'image' => 'bank.jpg',
         ],
         [
-            'date' => 'Since 2022',
+            'date' => 'Since 2020',
             'location' => 'Federal Reserve banks',
             'title' => 'Director',
             'description' => 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa nihil repellat ex. Labore maxime eligendi deleniti laboriosam omnis assumenda, ratione tempora provident voluptatibus similique odio reprehenderit expedita autem dolorem ipsum!',
+            'image' => 'fed.jpg',
+        ],
+        [
+            'date' => 'Since 2032',
+            'location' => 'WCS',
+            'title' => 'DEVELOPER',
+            'description' => 'On est au top',
             'image' => 'fed.jpg',
         ],
     ]
